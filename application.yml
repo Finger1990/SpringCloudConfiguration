@@ -1,11 +1,2 @@
-spring:
-    profiles: dev   #当前配置的ID、名字，区分配置的标识
-    application:
-        name: config-dev-8888
-        
----
-
-spring:
-    profiles: test   #当前配置的ID、名字，区分配置的标识
-    application:
-        name: config-test-8888-12222222
+config.server.password:123456
+config.server.username:王武
