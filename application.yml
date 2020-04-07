@@ -8,4 +8,4 @@ spring:
 spring:
     profiles: test   #当前配置的ID、名字，区分配置的标识
     application:
-        name: config-test-8888
+        name: config-test-8888-12222222
