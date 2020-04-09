@@ -5,7 +5,7 @@ mybatis:
   config-location: classpath:mybatis-config.xml
 
 spring:
-  profiles: dev
+  profile: dev
   application:
     name: springcloud01-product   
   datasource: 
